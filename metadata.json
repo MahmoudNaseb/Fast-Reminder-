@@ -1,0 +1,9 @@
+{
+  "name": "التقويم الهجري وتذكير الصيام",
+  "description": "تطبيق إسلامي لحساب مواقيت الصلاة بدقة طبقاً للموقع الجغرافي وتذكير صيام الإثنين والخميس والأيام البيض مع استثناء شهر رمضان المبارك للتذكير اليومي بتجديد نية الصيام.",
+  "requestFramePermissions": [
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_COARSE_LOCATION"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
